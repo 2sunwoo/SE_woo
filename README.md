@@ -236,6 +236,12 @@ Markdown 애플리케이션에서 내보낸 HTML 및 PDF 파일은 이모티콘�
 
 예시는 아래와 같다.
 
+Gone camping! \:tent: Be back soon.
+
+That is so funny! \:joy:
+
+출력은 다음과 같다.
+
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
