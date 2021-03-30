@@ -256,7 +256,7 @@ URL이 자동으로 연결되는 것을 원하지 않는 경우 URL을 백틱이
 
 예시는 아래와 같다.
 
-\`http://www.example.com\`
+\`http://www.example.com`
 
 출력은 다음과 같다.
 
