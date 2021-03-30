@@ -240,11 +240,6 @@ Gone camping! \:tent\: Be back soon.
 
 That is so funny! \:joy\:
 
-출력은 다음과 같다.
-
-Gone camping! :tent: Be back soon.
-
-That is so funny! :joy:
 
 # ***Automatic URL Linking***
 많은 Markdown 프로세서는 자동으로 URL을 링크로 변환한다.  
